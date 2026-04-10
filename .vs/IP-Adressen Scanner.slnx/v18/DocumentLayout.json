@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8079796F-8D04-460B-BBEE-64F0F2E10785}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen scanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8079796F-8D04-460B-BBEE-64F0F2E10785}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen scanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen scanner\\pingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\pingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen scanner\\iprangegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\iprangegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PingService.cs",
+              "DocumentMoniker": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\PingService.cs",
+              "RelativeDocumentMoniker": "IP-Adressen Scanner\\PingService.cs",
+              "ToolTip": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\PingService.cs",
+              "RelativeToolTip": "IP-Adressen Scanner\\PingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:10:36.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IpRangeGenerator.cs",
+              "DocumentMoniker": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\IpRangeGenerator.cs",
+              "RelativeDocumentMoniker": "IP-Adressen Scanner\\IpRangeGenerator.cs",
+              "ToolTip": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\IpRangeGenerator.cs",
+              "RelativeToolTip": "IP-Adressen Scanner\\IpRangeGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:10:01.524Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "IP-Adressen Scanner\\Program.cs",
               "ToolTip": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\Program.cs",
               "RelativeToolTip": "IP-Adressen Scanner\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T05:59:51.028Z",
               "EditorCaption": ""
