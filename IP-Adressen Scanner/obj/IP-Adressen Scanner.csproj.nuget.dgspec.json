@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\IP-Adressen Scanner.csproj": {}
+    "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\IP-Adressen Scanner.csproj": {}
   },
   "projects": {
-    "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\IP-Adressen Scanner.csproj": {
+    "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\IP-Adressen Scanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\IP-Adressen Scanner.csproj",
+        "projectUniqueName": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\IP-Adressen Scanner.csproj",
         "projectName": "IP-Adressen Scanner",
-        "projectPath": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\IP-Adressen Scanner.csproj",
-        "packagesPath": "C:\\Users\\a.colic\\.nuget\\packages\\",
-        "outputPath": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\obj\\",
+        "projectPath": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\IP-Adressen Scanner.csproj",
+        "packagesPath": "C:\\Users\\D.Masic\\.nuget\\packages\\",
+        "outputPath": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\a.colic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\D.Masic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

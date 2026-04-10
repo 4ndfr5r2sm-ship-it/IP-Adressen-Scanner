@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\",
+  "WorkspaceRootPath": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen scanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen-scanner\\ip-adressen scanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen scanner\\pingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen-scanner\\ip-adressen scanner\\iprangegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\iprangegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen-scanner\\ip-adressen scanner\\pingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\pingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen scanner\\iprangegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\iprangegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen-scanner\\ip-adressen scanner\\dindoservices\\portscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\dindoservices\\portscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen-scanner\\ip-adressen scanner\\dindoservices\\scanresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7643E05-ABAF-9C0A-F88E-34284F74EF18}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\dindoservices\\scanresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PingService.cs",
-              "DocumentMoniker": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\PingService.cs",
-              "RelativeDocumentMoniker": "IP-Adressen Scanner\\PingService.cs",
-              "ToolTip": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\PingService.cs",
-              "RelativeToolTip": "IP-Adressen Scanner\\PingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ScanResults.cs",
+              "DocumentMoniker": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\DindoServices\\ScanResults.cs",
+              "RelativeDocumentMoniker": "IP-Adressen Scanner\\DindoServices\\ScanResults.cs",
+              "ToolTip": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\DindoServices\\ScanResults.cs",
+              "RelativeToolTip": "IP-Adressen Scanner\\DindoServices\\ScanResults.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T06:10:36.309Z",
+              "WhenOpened": "2026-04-10T06:43:20.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Portscanner.cs",
+              "DocumentMoniker": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\DindoServices\\Portscanner.cs",
+              "RelativeDocumentMoniker": "IP-Adressen Scanner\\DindoServices\\Portscanner.cs",
+              "ToolTip": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\DindoServices\\Portscanner.cs",
+              "RelativeToolTip": "IP-Adressen Scanner\\DindoServices\\Portscanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:41:52.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PingService.cs",
+              "DocumentMoniker": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\PingService.cs",
+              "RelativeDocumentMoniker": "IP-Adressen Scanner\\PingService.cs",
+              "ToolTip": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\PingService.cs",
+              "RelativeToolTip": "IP-Adressen Scanner\\PingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:39:44.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IpRangeGenerator.cs",
-              "DocumentMoniker": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\IpRangeGenerator.cs",
+              "DocumentMoniker": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\IpRangeGenerator.cs",
               "RelativeDocumentMoniker": "IP-Adressen Scanner\\IpRangeGenerator.cs",
-              "ToolTip": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\IpRangeGenerator.cs",
+              "ToolTip": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\IpRangeGenerator.cs",
               "RelativeToolTip": "IP-Adressen Scanner\\IpRangeGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T06:10:01.524Z",
+              "WhenOpened": "2026-04-10T06:39:44.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\Program.cs",
+              "DocumentMoniker": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\Program.cs",
               "RelativeDocumentMoniker": "IP-Adressen Scanner\\Program.cs",
-              "ToolTip": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\Program.cs",
+              "ToolTip": "Z:\\4AHWII\\SWP\\Ip-Adressen Scanner\\IP-Adressen-Scanner\\IP-Adressen Scanner\\Program.cs",
               "RelativeToolTip": "IP-Adressen Scanner\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T05:59:51.028Z",
+              "WhenOpened": "2026-04-10T06:39:44.368Z",
               "EditorCaption": ""
             }
           ]
