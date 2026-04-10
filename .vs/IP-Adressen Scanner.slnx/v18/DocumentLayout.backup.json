@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8079796F-8D04-460B-BBEE-64F0F2E10785}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|z:\\4ahwii\\swp\\ip-adressen scanner\\ip-adressen scanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8079796F-8D04-460B-BBEE-64F0F2E10785}|IP-Adressen Scanner\\IP-Adressen Scanner.csproj|solutionrelative:ip-adressen scanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\Program.cs",
+              "RelativeDocumentMoniker": "IP-Adressen Scanner\\Program.cs",
+              "ToolTip": "Z:\\4AHWII\\SWP\\IP-Adressen Scanner\\IP-Adressen Scanner\\Program.cs",
+              "RelativeToolTip": "IP-Adressen Scanner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:59:51.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
